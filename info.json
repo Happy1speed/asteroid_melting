@@ -1,0 +1,10 @@
+{
+  "name": "asteroid_melting",
+  "version": "1.0.0",
+  "title": "Asteroid Melting",
+  "author": "Happy1speed",
+  "homepage": "",
+  "description": "Adds a technology and a recipe for melting metallic asteroid chunks into lava",
+  "factorio_version": "2.0",
+  "dependencies": ["space-age >= 1.0.0"]
+}
